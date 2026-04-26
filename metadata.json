@@ -1,0 +1,6 @@
+{
+  "name": "Nexa Guide",
+  "description": "A 360 guide and dashboard with AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
